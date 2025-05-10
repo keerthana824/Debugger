@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&display=swap');
+
+.font-inspiration {
+  font-family: 'Inspiration', cursive;
+}
+
+/* Button Styling */
+button {
+  font-weight: 500;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+button:active {
+  transform: scale(0.95);
+}
